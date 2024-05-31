@@ -3,6 +3,7 @@ class switchcases {
 
     public static void main(String[] args) {
         String marks = "D";
+
         switch (marks) {
             case "A":
                 System.out.println("fail");
